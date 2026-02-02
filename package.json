@@ -1,0 +1,12 @@
+{
+  "name": "genai",
+  "version": "1.0.0",
+  "description": "GENAI learning classes ",
+  "license": "ISC",
+  "author": "Anurag Prajapati",
+  "type": "module",
+  "main": "LLM.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
